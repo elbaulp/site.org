@@ -22,7 +22,7 @@ If you wanted this process to be automatic, you could run the generation as part
 Jekyll is one of these site generators and it was the most popular for a while. The nice part was that if you used Jekyll, Github Pages will generate your website automatically, without having to setup CI. Just push your changes and a minute later your site was published.
 
 On the other hand, you were limited by using the Jekyll version that was installed at Github, and you could not just install any add-on that you wanted. You did not control the environment to the level you did in a typical CI.
- TEST
+
 
 * Moving away from Jekyll
 
